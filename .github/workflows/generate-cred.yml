@@ -30,7 +30,7 @@ jobs:
         env:
           # token: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
-          SOURCECRED_INITIATIVES_DIRECTORY: ./initiatives
+          #SOURCECRED_INITIATIVES_DIRECTORY: ./initiatives
         with:
           project: "@ocean"
           project-file: project.json
