@@ -1,9 +1,9 @@
 {
-  "name": "example-instance",
+  "name": "OceanProtocolDiscordSourceCred",
   "version": "0.1.0",
-  "description": "An example SourceCred instance",
-  "repository": "git@github.com:sourcecred/example-instance.git",
-  "author": "SourceCred Team <contact@sourcecred.io>",
+  "description": "Ocean Protocol Discord SourceCred instance",
+  "repository": "git@github.com:Ocean-Collective/OceanDiscordCred.git",
+  "author": "Robin <4robinlehmann@gmail.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {
